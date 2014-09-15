@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossPlatformSampleApp.Wind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossPlatformSampleApp.WindowsPhone", "CrossPlatformSampleApp\CrossPlatformSampleApp.WindowsPhone\CrossPlatformSampleApp.WindowsPhone.csproj", "{6A997125-C359-4BFE-A358-0379D63E845F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinRTWPAndWPSilverlight81Library", "WinRTWPAndWPSilverlight8.1Library\WinRTWPAndWPSilverlight81Library.csproj", "{754D56CD-CCB4-4E20-9D17-C9101224FEDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinRTWP81Library", "WinRTWP81Library\WinRTWP81Library.csproj", "{A34CA725-7CF2-4D13-AB14-0B2F13ABD485}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		CrossPlatformSampleApp\CrossPlatformSampleApp.Shared\CrossPlatformSampleApp.Shared.projitems*{6a997125-c359-4bfe-a358-0379d63e845f}*SharedItemsImports = 4
@@ -72,6 +76,26 @@ Global
 		{6A997125-C359-4BFE-A358-0379D63E845F}.Release|x86.ActiveCfg = Release|x86
 		{6A997125-C359-4BFE-A358-0379D63E845F}.Release|x86.Build.0 = Release|x86
 		{6A997125-C359-4BFE-A358-0379D63E845F}.Release|x86.Deploy.0 = Release|x86
+		{754D56CD-CCB4-4E20-9D17-C9101224FEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754D56CD-CCB4-4E20-9D17-C9101224FEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754D56CD-CCB4-4E20-9D17-C9101224FEDE}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{754D56CD-CCB4-4E20-9D17-C9101224FEDE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{754D56CD-CCB4-4E20-9D17-C9101224FEDE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{754D56CD-CCB4-4E20-9D17-C9101224FEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754D56CD-CCB4-4E20-9D17-C9101224FEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{754D56CD-CCB4-4E20-9D17-C9101224FEDE}.Release|ARM.ActiveCfg = Release|Any CPU
+		{754D56CD-CCB4-4E20-9D17-C9101224FEDE}.Release|x64.ActiveCfg = Release|Any CPU
+		{754D56CD-CCB4-4E20-9D17-C9101224FEDE}.Release|x86.ActiveCfg = Release|Any CPU
+		{A34CA725-7CF2-4D13-AB14-0B2F13ABD485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34CA725-7CF2-4D13-AB14-0B2F13ABD485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34CA725-7CF2-4D13-AB14-0B2F13ABD485}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{A34CA725-7CF2-4D13-AB14-0B2F13ABD485}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A34CA725-7CF2-4D13-AB14-0B2F13ABD485}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A34CA725-7CF2-4D13-AB14-0B2F13ABD485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34CA725-7CF2-4D13-AB14-0B2F13ABD485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34CA725-7CF2-4D13-AB14-0B2F13ABD485}.Release|ARM.ActiveCfg = Release|Any CPU
+		{A34CA725-7CF2-4D13-AB14-0B2F13ABD485}.Release|x64.ActiveCfg = Release|Any CPU
+		{A34CA725-7CF2-4D13-AB14-0B2F13ABD485}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
